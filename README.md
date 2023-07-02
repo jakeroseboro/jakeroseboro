@@ -3,15 +3,15 @@
 <h3 align="center">Software Engineer</h3>
 
 
-- 🌱 I’m currently learning **how to set up a ASP.NET video streaming service, how to scale APIs with docker and kubernetes, and I am dabbling in native mobile applications**. 
+- 🌱 I’m currently working on **an open source, cookie-free analytics platform that acts as an alternative to Google Analytics. The technologies being used are C#, ASP.NET Core 7, MediatR, SignalR, NPGSQL, EF Core, NextJs, TypeScript, and Supabase**. 
 
 - 👨‍💻 All of my projects are available on this github.
 
-- 💬 Ask me about **C#**, **Dotnet**,**React**, **TypeScript**, or **General programming questions**.
+- 💬 Ask me about **C#**, **Dotnet**, **NextJs**, **TypeScript**, or **General programming questions**.
 
 - 📫 How to reach me: **You can message me on <a href="https://www.linkedin.com/in/jacobroseboro/" target="blank"> LinkedIn</a>**
 
-- 📚 Books I'm Currently Reading: **It Ends With Us - Colleen Hoover**
+- 📚 Books I'm Currently Reading: **Reminders of Him - Colleen Hoover**
 
 - ⚡ Fun facts: **I am into music production, I love the great outdoors, and I am almost always working on some sort of side project.**
 
