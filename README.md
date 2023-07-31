@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **You can message me on <a href="https://www.linkedin.com/in/jacobroseboro/" target="blank"> LinkedIn</a>**
 
-- 📚 Books I'm Currently Reading: **Reminders of Him - Colleen Hoover**
+- 📚 Books I'm Currently Reading: **The Beautiful and Damned - F. Scott Fitzgerald**
 
 - ⚡ Fun facts: **I am into music production, I love the great outdoors, and I am almost always working on some sort of side project.**
 
